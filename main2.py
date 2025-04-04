@@ -2,12 +2,12 @@
 
 # there are different types of variables
 # strings are text
-# name= "John" #quotation marks
-#name2= "Lucy"
+name= "John" #quotation marks
+name2= "Lucy"
 # integers are whole numbers
-#num1="10" # no quotation marks
-#num2=20
-#print(int(num1)+num2)
+num1="10" # no quotation marks
+num2=20
+print(int(num1)+num2)
 # when you have a plus sign betrween two variables its called concatenatiom
 # floats are decimal numbers
 # typecasting is when you convert a variable from one type to another
@@ -21,7 +21,7 @@ print (f"{name} has {dollars} dollars")
 # booleans arew true or false
 is_student = True
 # It can be true or false
-print(f" {name} is a student: {is_ student}")
+print(f" {name} is a student: {is_student}")
 # lists are collections of values
 # dictionaries are collections of key-values pairs
 # problem set #1
